@@ -1,0 +1,1 @@
+alert("Js through registeredJsFile()");
